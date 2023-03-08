@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+**THIS IS PRACTICE OF COLLAB WORK ON 03082023**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
